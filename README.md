@@ -22,7 +22,7 @@ Currently, I’m focusing on:
 
 <p align="center">
   <p align="center">
- <a href="https://codeforces.com/profile/obaidulsaiki"> <img alt="Codeforces" src="https://custom-icon-badges.demolab.com/badge/Codeforces-267-%23E05D44?style=for-the-badge&labelColor=CE4630&logo=codeforces&logoColor=white"/> </a>
+ <a href="https://codeforces.com/profile/obaidulsaiki"> <img alt="Codeforces" src="https://custom-icon-badges.demolab.com/badge/Codeforces-100-%23E05D44?style=for-the-badge&labelColor=CE4630&logo=codeforces&logoColor=white"/> </a>
   <a href="https://leetcode.com/u/obaidulsaiki/">
     <img alt="LeetCode" src="https://custom-icon-badges.demolab.com/badge/LeetCode-03-%23005588?style=for-the-badge&labelColor=003366&logo=leetcode&logoColor=white"/>
   </a>
@@ -63,7 +63,7 @@ I'm always open to collaborating on interesting projects and connecting with fel
 ## 📊 My GitHub Stats
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashraful-21&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&cache_bust=1" alt="Obaidulsaiki's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashraful-21&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&cache_bust=1" alt="Ashraful Haque's GitHub stats" />
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraful-21&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&cache_bust=1" alt="Top Languages" />
